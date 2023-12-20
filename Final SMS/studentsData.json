@@ -1,0 +1,48 @@
+[
+  {
+    "FirstName": "string",
+    "MidlleName": "string",
+    "LastName": "string",
+    "StudentId": "string",
+    "JoiningBatch": "string",
+    "Department": 0,
+    "Degree": 0,
+    "AttendedCourse": [
+      {
+        "CourseId": "string",
+        "CourseName": "string",
+        "InstructorName": "string",
+        "NumberOfCredits": 0.0
+      }
+    ],
+    "SemestersAttended": [
+      {
+        "SemesterCode": 0,
+        "Year": "string"
+      }
+    ]
+  },
+  {
+    "FirstName": "Shakib",
+    "MidlleName": "string",
+    "LastName": "string",
+    "StudentId": "10M",
+    "JoiningBatch": "string",
+    "Department": 0,
+    "Degree": 0,
+    "AttendedCourse": [
+      {
+        "CourseId": "string",
+        "CourseName": "string",
+        "InstructorName": "string",
+        "NumberOfCredits": 0.0
+      }
+    ],
+    "SemestersAttended": [
+      {
+        "SemesterCode": 0,
+        "Year": "string"
+      }
+    ]
+  }
+]
